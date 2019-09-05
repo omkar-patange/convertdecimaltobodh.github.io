@@ -2,11 +2,9 @@
  			padding: 0;
  			margin: 0;
  		}
- 		/* body{
- 			background: linear-gradient(top bottom red, blue);
- 			width: 100%;
- 			height: 100vh;
- 		} */
+ 		body{
+ 			zoom: 350%;
+ 		}
  		.centerit{
  			position: absolute;
  			top: 40%;
